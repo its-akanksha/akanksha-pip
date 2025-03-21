@@ -14,7 +14,8 @@ The **Akanksha** Python package is designed to streamline the process of sharing
 - **Enhanced Collaboration & Knowledge Sharing:** Facilitates standardized resume presentation for better communication.
 
 ## Architecture
-To understand the package structure and workflow, refer to the image [[architecture.png]]
+To understand the package structure and workflow, refer to the image:
+![System Architecture](architecture.png)
 
 ## Feature Overview
 
